@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-image:url("https://i.pinimg.com/originals/8f/bf/4e/8fbf4ea9f72e0a48fbc6819e4548eff9.jpg") ;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color:white;
+    font-weight: bold;
+    background-color: black;
+}
+#myCanvas{
+    margin-top: 30px;
+    background-color: white;
+    border-width: 10px;
+    border-style: solid;
+    background-image: url("https://images.pond5.com/animation-road-asphalt-loop-endless-footage-106143455_iconl.jpeg");
+    background-size: cover;
+    background-position: center;
+}
